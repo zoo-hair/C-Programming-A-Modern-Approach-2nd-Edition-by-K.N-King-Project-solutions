@@ -1,1 +1,2 @@
-Hello and greetings everyone! This directory is solely dedicated for the solutions of the project problems of the book, C Programming A Modern Approach 2nd Edition by K.N King. Feel free to give your valuable feedbacks.
+Hello and greetings everyone! This directory is solely dedicated for the solutions to K. N. King's "C Programming: A Modern Approach, second edition".
+Feedbacks are highly appreciated!
