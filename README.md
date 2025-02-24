@@ -1,0 +1,1 @@
+Hello and greetings everyone! This directory is solely dedicated for the solutions of the project problems of the book, C Programming A Modern Approach 2nd Edition by K.N King. Feel free to give your valuable feedbacks.
